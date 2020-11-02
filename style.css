@@ -1,0 +1,17 @@
+h1 {color : blue;}
+p {color : violet;}
+li {color : purple}
+
+.origamiObjects {
+    display : flex;
+    justify-content: space-around;
+    align-content: center;
+    margin-left: 150px;
+}
+
+.menu a{
+    position: relative;
+    margin-left: 10px;
+    padding-top: 25px;
+    text-align: left;
+}
